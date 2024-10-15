@@ -2,11 +2,12 @@
 
 VectorShift Workflow is a project that utilizes React for the frontend and FastAPI for the backend to create and manage workflows. This project supports Directed Acyclic Graphs (DAGs) for workflow management.
 
+## Live Demo
+
+Check out the live demo of the VectorShift Workflow 
+[here](https://webflow-assessment-ufcr.vercel.app/).
 
 
-
-
-https://github.com/user-attachments/assets/7a2b9779-5f41-49a5-a919-361535410bb9
 
 ## Screenshots
 
@@ -87,10 +88,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [sahiljain0](mailto:jainsahil760@gmail.com).
+For any questions or inquiries, please contact [Sahiljain0](mailto:jainsahil760@gmail.com).
 
 *Creating a new workflow using the UI.*
-
 
 
 
